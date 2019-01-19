@@ -1,0 +1,16 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "simple node server assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "node",
+    "server"
+  ],
+  "author": "Lindsay Koprivica",
+  "license": "ISC"
+}
